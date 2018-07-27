@@ -188,7 +188,7 @@ Use ``Find and Add Data`` (look for the ``10/01`` icon) and its ``Connections`` 
 
 ![png](images/9_insert_dataconn.png)
 
-Note: If you don't have your own data and configuration files, you can reuse our example in the `Read IoT Sensor data from database` section. Look in the `/data/iot_sensor_dataset.csv` directory for data file.
+Note: If you don't have your own data and configuration files, you can reuse our example in the `Add the data and configuration file` section. Look in the `/data/Online Retail Sample.csv` directory for data file.
 
 ![png](images/10_insert_read_data_func.png)
   
